@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Senac.Trabalho.Web.props" />
+</Project>
